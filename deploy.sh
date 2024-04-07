@@ -4,7 +4,7 @@
 # docker login
 echo "Logging into Docker Hub"
 docker login -u arpanamuriki -p dckr_pat_MiRKO9JlzFxLv7ydo4XDqSzXN3I
-if [[ $GIT_BRANCH == "origin/master" ]]; then
+if [[ $GIT_BRANCH == "origin/main" ]]; then
 docker tag capstoneimg arpanamuriki/prod
 docker images
 docker push arpanamuriki/prod
