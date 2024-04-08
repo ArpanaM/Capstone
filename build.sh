@@ -10,4 +10,4 @@ docker build -t capstoneimg .
 
 
 
-docker run -it --name capstonecontainer -d -p 80:80 capstoneimg
+docker run -it --name capstonecontainer1 -d -p 80:80 capstoneimg
