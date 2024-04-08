@@ -1,8 +1,8 @@
 #!/bin/bash
 
 #Build docker image
-docker stop capstonecontainer || true 
-docker rm capstonecontainer || true
+docker stop capstonecontainer1 || true 
+docker rm capstonecontainer1 || true
 
 docker build -t capstoneimg .
 
