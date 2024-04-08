@@ -13,9 +13,9 @@ docker login -u arpanamuriki -p dckr_pat_MiRKO9JlzFxLv7ydo4XDqSzXN3I
 
 echo "Value=$GIT_BRANCH"
 if [[ $GIT_BRANCH == "origin/master" ]]; then
-docker tag capstoneimg arpanamuriki/prod
-docker push arpanamuriki/prod
+docker tag capstoneimg arpanamuriki/prod:v1
+docker push arpanamuriki/prod:v1
 elif [[ $GIT_BRANCH == "origin/dev" ]]; then
-docker tag capstoneimg arpanamuriki/dev
-docker push arpanamuriki/dev
+docker tag capstoneimg arpanamuriki/dev:v2
+docker push arpanamuriki/dev:v2
 fi
