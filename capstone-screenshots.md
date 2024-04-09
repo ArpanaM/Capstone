@@ -47,7 +47,7 @@ https://cloudwatch.amazonaws.com/dashboard.html?dashboard=Capstone-Dashboard&con
 
 ![image](https://github.com/ArpanaM/Capstone/assets/68733492/d57c8cfe-0a45-404e-92f1-86839976d3d8)
 
-# Created SNS to notify when the APllication is down
+# Created SNS to notify when the Aplication goes down.
 
 ![image](https://github.com/ArpanaM/Capstone/assets/68733492/ceb426df-8b30-4343-9cec-64a02a95f02f)
 
