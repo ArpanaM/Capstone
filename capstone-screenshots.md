@@ -5,7 +5,7 @@ https://github.com/ArpanaM/Capstone.git
 
 # Deployed Site URL
 
-http://34.208.230.3:80
+http://35.86.115.143:80
 
 
 # Docker Images Names
