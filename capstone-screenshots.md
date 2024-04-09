@@ -41,7 +41,24 @@
 
 ![image](https://github.com/ArpanaM/Capstone/assets/68733492/a639e331-7290-4f6f-a02b-01c53ec786d3)
 
-# Monitoring Health Checks
+# Monitoring Health Checks using Cloudwatch(dashboard public url)
+
+https://cloudwatch.amazonaws.com/dashboard.html?dashboard=Capstone-Dashboard&context=eyJSIjoidXMtZWFzdC0xIiwiRCI6ImN3LWRiLTE2MDUxNzEyMDE2OSIsIlUiOiJ1cy1lYXN0LTFfOVczTTlqeDdxIiwiQyI6IjJtdTNzNGhxZXBvaWU0ZmNnNDNiam9jamJzIiwiSSI6InVzLWVhc3QtMTo2YTM3NTYxZi1lNjdjLTQ3YTctYTRiNy0xYTUxZjU3NzJmZmIiLCJNIjoiUHVibGljIn0=
+
+![image](https://github.com/ArpanaM/Capstone/assets/68733492/d57c8cfe-0a45-404e-92f1-86839976d3d8)
+
+# Created SNS to notify when the APllication is down
+
+![image](https://github.com/ArpanaM/Capstone/assets/68733492/ceb426df-8b30-4343-9cec-64a02a95f02f)
+
+![image](https://github.com/ArpanaM/Capstone/assets/68733492/18d7505a-f8b2-4ea3-b25a-d382087cc4ec)
+
+
+
+
+
+
+
 
 
 
