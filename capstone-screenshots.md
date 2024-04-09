@@ -23,6 +23,29 @@
 ![image](https://github.com/ArpanaM/Capstone/assets/68733492/181d8b87-887c-4cdb-a863-80323bf6a0e7)
 
 
+# AWS EC2 Console, SG Configs
+
+![image](https://github.com/ArpanaM/Capstone/assets/68733492/ce78534c-fc06-43c7-b521-7457cd8714a0)
+
+![image](https://github.com/ArpanaM/Capstone/assets/68733492/5b37124a-8c52-485d-b2e8-341efc5336b6)
+
+# Docker hub Repo with image tags
+
+![image](https://github.com/ArpanaM/Capstone/assets/68733492/7fd37159-0542-4355-a0ea-4982ca138e62)
+
+![image](https://github.com/ArpanaM/Capstone/assets/68733492/df17d015-c9e8-4c51-9f72-97458dd52748)
+
+![image](https://github.com/ArpanaM/Capstone/assets/68733492/750f43ea-8b73-48bb-b1eb-b3b5071beac3)
+
+
+
+
+
+
+
+
+
+
 
 
 
