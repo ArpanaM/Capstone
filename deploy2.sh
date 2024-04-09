@@ -4,7 +4,7 @@
 # docker login
 echo "Logging into Docker Hub"
 
-docker login -u arpanamuriki -p dckr_pat_MiRKO9JlzFxLv7ydo4XDqSzXN3I
+docker login -u $Docker_UserName -p $Docker_Password
 
 #    docker tag capstoneimg arpanamuriki/prod
 #    docker images
