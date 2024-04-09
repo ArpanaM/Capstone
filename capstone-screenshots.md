@@ -37,6 +37,12 @@
 
 ![image](https://github.com/ArpanaM/Capstone/assets/68733492/750f43ea-8b73-48bb-b1eb-b3b5071beac3)
 
+# Deployed Site url
+
+![image](https://github.com/ArpanaM/Capstone/assets/68733492/a639e331-7290-4f6f-a02b-01c53ec786d3)
+
+
+
 
 
 
