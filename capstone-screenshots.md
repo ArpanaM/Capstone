@@ -8,7 +8,10 @@ https://github.com/ArpanaM/Capstone.git
 http://34.208.230.3:80
 
 
+# Docker Images Names
 
+arpanamuriki/dev:v2
+arpanamuriki/prod:latest
 
 
 
