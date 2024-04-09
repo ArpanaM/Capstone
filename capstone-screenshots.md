@@ -73,6 +73,9 @@ https://cloudwatch.amazonaws.com/dashboard.html?dashboard=Capstone-Dashboard&con
 
 
 
+# Application got down and Sent Notification to Email address
+
+![image](https://github.com/ArpanaM/Capstone/assets/68733492/37f861c1-9cd3-4b8d-96a6-3a21b9826d3e)
 
 
 
