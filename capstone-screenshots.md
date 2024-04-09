@@ -13,6 +13,15 @@
 
 ![image](https://github.com/ArpanaM/Capstone/assets/68733492/d7b32bba-4555-4a49-a449-e40301f3e23c)
 
+# Executed Step Commands in Jenkins
+
+![image](https://github.com/ArpanaM/Capstone/assets/68733492/c0ea6a44-00cf-4998-8dd7-eff49cfcc31c)
+
+
+![image](https://github.com/ArpanaM/Capstone/assets/68733492/c6b6d66a-9afc-4eae-a73c-aa5465593e53)
+
+![image](https://github.com/ArpanaM/Capstone/assets/68733492/181d8b87-887c-4cdb-a863-80323bf6a0e7)
+
 
 
 
