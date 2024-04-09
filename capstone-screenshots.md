@@ -27,7 +27,8 @@
 
 ![image](https://github.com/ArpanaM/Capstone/assets/68733492/ce78534c-fc06-43c7-b521-7457cd8714a0)
 
-![image](https://github.com/ArpanaM/Capstone/assets/68733492/5b37124a-8c52-485d-b2e8-341efc5336b6)
+![image](https://github.com/ArpanaM/Capstone/assets/68733492/e928602d-c741-4bc7-aac1-1db231620af4)
+
 
 # Docker hub Repo with image tags
 
